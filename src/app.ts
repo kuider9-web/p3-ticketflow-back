@@ -14,6 +14,7 @@ app.use(
 		origin: [
 			"http://localhost:5173",
 			"https://p3-ticketflow-front.onrender.com",
+			"https://p3-ticketflow-front-9f6l.onrender.com",
 		],
 		credentials: true,
 	}),
